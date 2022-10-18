@@ -1,7 +1,7 @@
 # Transfer-Function-GA
 Genetic Algorithm for the Matter Transfer Function
 
-The file Transfer_Function_GA.nb is a Mathematica notebook with the Genetic Algorithm used to find the Matter Transfer Function shown in . The notebook has several comments to help the reader of the code. However, further comments are always very welcome. 
+The file Transfer_Function_GA.nb is a Mathematica notebook with the Genetic Algorithm used to find the Matter Transfer Function shown in . The notebook has several comments to help the reader. However, further comments to improve the presentation of the code are always very welcome. 
 
 In Data.zip you will find the following files:
 
